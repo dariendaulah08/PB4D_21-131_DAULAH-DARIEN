@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"> modul1 </string>
+    <string name="konten"> Nama : Daulah Darien \n
+        Tempat, tgl lahir : Pamekasan, 08 Mei 2002 \n
+        Umur : 20 Tahun \n
+        Hobi : Merajut \n
+        Alamat : Jl. Raya Waru, Kab. Pamekasan (69353) - Jawa Timur \n
+        No hp : (+62)82225092486 \n
+        Email : dariendaulah@gmail.com \n
+        Instagram : @dasyam_ \n
+        Facebook : Darien Syamlan
+    </string>
+    <string name="judul">BIODATA</string>
+</resources>
