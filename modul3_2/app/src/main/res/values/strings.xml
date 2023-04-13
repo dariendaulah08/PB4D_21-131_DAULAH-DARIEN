@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">modul3_2</string>
+    <string name="judul">Selamat Datang di Dasyam89_Store</string>
+
+    <string name="desc1">Detail Produk</string>
+    <string name="desc_detail">Kaos Kaki import \n
+Berbagai macam motif, ukuran, dan pilihan \n
+Harga terjangkau</string>
+
+    <string name="desc2">Material dan bahan</string>
+    <string name="desc_bahan">Katun spandek premium \n
+Anti melar</string>
+
+    <string name="desc3">Harga</string>
+    <string name="desc_harga">
+Pembelian 1 pcs : 8.000 \n
+Pembelian 3 pcs : 20.000</string>
+
+    <string name="desc_judul">Ready di toko kami Kaos Kaki bahan Import \n
+dengan harga 20.000 saja anda mendapatkan 3 pcs kaos kaki dengan motif yang beraneka macam</string>
+
+    <string name="btndetail">For more detail..</string>
+    <string name="btnorder">Order via Whatsapp</string>
+</resources>
