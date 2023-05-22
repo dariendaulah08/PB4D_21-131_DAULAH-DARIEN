@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Modul5</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="desc_profile">Fragment Profile</string>
+    <string name="desc_home">Fragment Home</string>
+    <string name="desc_settings">Fragment Settings</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
